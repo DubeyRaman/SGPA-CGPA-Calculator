@@ -1,0 +1,137 @@
+body {
+    background-image: url("https://images.pexels.com/photos/3368816/pexels-photo-3368816.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+#calc-container {
+    background-color: #a8d89f;
+    padding: 20px 50px 20px 50px;
+    border: 2px solid;
+    border-radius: 15px;
+    width: 280px;
+    margin: 0 auto;
+}
+
+#h {
+    color: #e74c3c;
+    background-color: #ffffffaf;
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+label {
+    color: #333;
+    font-weight: bold;
+}
+
+input {
+    background-color: #ecf0f1;
+    margin: 10px 0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+}
+
+#calc {
+    background-color: #27ae60;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#res {
+    font-size: 24px;
+    background-color: #d05656;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+}
+a.github-link {
+    background-color: #ffffffa4;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+    padding: 10px;
+}
+
+a.github-link:hover {
+    color: red;
+}
+
+img.github-icon {
+    width: 20px;
+    height: 20px;
+    vertical-align: bottom;
+}
+#cgpa {
+    background-color: #a8d89f;
+    padding: 20px 50px 20px 50px;
+    border: 2px solid;
+    border-radius: 15px;
+    width: 280px;
+    margin: 20px auto;
+}
+
+#cgpa-h {
+    color: #2980b9;
+    background-color: #ffffffaf;
+    font-size: 24px;
+    margin-bottom: 20px;
+    padding: 8px;
+    border-radius: 8px;
+    border: 1px solid;
+    border-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cgpa-form label {
+    color: #333;
+    font-weight: bold;
+}
+
+#cgpa-form input {
+    background-color: #ecf0f1;
+    margin: 10px 0;
+    font-weight: bold;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    width: 80%;
+}
+
+#cgpa-calc {
+    background-color: #27ae60;
+    color: #fff;
+    font-size: 18px;
+    padding: 10px 0;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#cgpa-result {
+    font-size: 24px;
+    background-color: #d05656;
+    color: rgb(0, 0, 0);
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    margin-top: 10px;
+}
